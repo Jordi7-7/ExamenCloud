@@ -252,3 +252,7 @@ C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\ExamenCloud.API.pdb
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\ExamenCloud.API.genruntimeconfig.cache
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\ref\ExamenCloud.API.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\ExamenCloud.API.sourcelink.json
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\bin\Release\net8.0\Newtonsoft.Json.Bson.dll

@@ -24,14 +24,21 @@ namespace ExamenCloud.API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<VideoJuego>>> GetVideoJuego()
         {
-            return await _context.VideoJuegos.ToListAsync();
+            var videoJuego = await _context.VideoJuegos
+       .Include(e => e.Distribuidor)
+       .ToListAsync();
+
+            return videoJuego;
         }
 
         // GET: api/VideoJuegos/5
         [HttpGet("{id}")]
         public async Task<ActionResult<VideoJuego>> GetVideoJuego(int id)
         {
-            var videoJuego = await _context.VideoJuegos.FindAsync(id);
+            var videoJuego = await _context.VideoJuegos.
+        Include(e => e.Distribuidor).
+        Where(e => e.Id == id).
+        FirstOrDefaultAsync();
 
             if (videoJuego == null)
             {

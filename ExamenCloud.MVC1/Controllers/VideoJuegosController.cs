@@ -3,20 +3,31 @@ using ExamenCloud.ConsumeAPI;
 using ExamenCloud.Entidades;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ExamenCloud1.MVC.Controllers
 {
     public class VideoJuegosController : Controller
     {
         private string urlApi;
+        private string urlBase;
+
 
         public VideoJuegosController(IConfiguration configuration)
         {
             urlApi = configuration.GetValue("ApiUrlBase", "").ToString() + "/VideoJuegos";
+            this.urlBase = configuration.GetValue("ApiUrlBase", "").ToString();
+
+        }
+        private Distribuidor[] ObtenerListaDistribuidores()
+        {
+
+            return Crud<Distribuidor>.Read(urlBase + "/Distribuidores");
         }
 
-        // GET: EmpleadosController
-        public ActionResult Index()
+
+    // GET: EmpleadosController
+    public ActionResult Index()
         {
             var data = Crud<VideoJuego>.Read(urlApi);
             return View(data);
@@ -32,6 +43,13 @@ namespace ExamenCloud1.MVC.Controllers
         // GET: EmpleadosController/Create
         public ActionResult Create()
         {
+
+            ViewBag.DistribuidorId = ObtenerListaDistribuidores().Select(d => new SelectListItem
+            {
+                Value = d.Id.ToString(),
+                Text = d.Nombre
+            }).ToList();
+
             return View();
         }
 

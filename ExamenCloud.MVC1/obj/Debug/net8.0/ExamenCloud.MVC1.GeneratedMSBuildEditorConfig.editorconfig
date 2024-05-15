@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jordi/Desktop/Examen Cloud/ExamenCloud/ExamenCloud.MVC1/Views/Distribuidores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jordi/Desktop/Examen Cloud/ExamenCloud/ExamenCloud.MVC1/Views/Distribuidores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jordi/Desktop/Examen Cloud/ExamenCloud/ExamenCloud.MVC1/Views/Distribuidores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jordi/Desktop/Examen Cloud/ExamenCloud/ExamenCloud.MVC1/Views/Distribuidores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jordi/Desktop/Examen Cloud/ExamenCloud/ExamenCloud.MVC1/Views/Distribuidores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

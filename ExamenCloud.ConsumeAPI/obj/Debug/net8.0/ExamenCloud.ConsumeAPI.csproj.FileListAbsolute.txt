@@ -10,3 +10,4 @@ C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Debug
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Debug\net8.0\refint\ExamenCloud.ConsumeAPI.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Debug\net8.0\ExamenCloud.ConsumeAPI.pdb
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Debug\net8.0\ref\ExamenCloud.ConsumeAPI.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Debug\net8.0\ExamenCloud.ConsumeAPI.sourcelink.json

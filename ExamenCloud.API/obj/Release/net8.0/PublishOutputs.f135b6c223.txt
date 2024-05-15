@@ -7,6 +7,8 @@ C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Humanizer.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.Build.dll
@@ -50,6 +52,7 @@ C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Mono.TextTemplating.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\NuGet.Common.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\NuGet.Configuration.dll
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.API\obj\Release\net8.0\PubTmp\Out\NuGet.DependencyResolver.Core.dll

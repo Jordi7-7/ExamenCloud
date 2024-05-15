@@ -227,3 +227,4 @@ C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1\obj\Release\net
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1\obj\Release\net8.0\ExamenCloud.MVC1.pdb
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1\obj\Release\net8.0\ExamenCloud.MVC1.genruntimeconfig.cache
 C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1\obj\Release\net8.0\ref\ExamenCloud.MVC1.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.MVC1\obj\Release\net8.0\ExamenCloud.MVC1.sourcelink.json
