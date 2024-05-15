@@ -1,0 +1,11 @@
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\bin\Release\net8.0\ExamenCloud.Entidades.deps.json
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\bin\Release\net8.0\ExamenCloud.Entidades.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\bin\Release\net8.0\ExamenCloud.Entidades.pdb
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.AssemblyInfo.cs
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\refint\ExamenCloud.Entidades.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ExamenCloud.Entidades.pdb
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud\obj\Release\net8.0\ref\ExamenCloud.Entidades.dll

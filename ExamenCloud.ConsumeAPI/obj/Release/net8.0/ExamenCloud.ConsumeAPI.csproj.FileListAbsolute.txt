@@ -1,0 +1,12 @@
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\bin\Release\net8.0\ExamenCloud.ConsumeAPI.deps.json
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\bin\Release\net8.0\ExamenCloud.ConsumeAPI.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\bin\Release\net8.0\ExamenCloud.ConsumeAPI.pdb
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.AssemblyInfo.cs
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\refint\ExamenCloud.ConsumeAPI.dll
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ExamenCloud.ConsumeAPI.pdb
+C:\Users\jordi\Desktop\Examen Cloud\ExamenCloud\ExamenCloud.ConsumeAPI\obj\Release\net8.0\ref\ExamenCloud.ConsumeAPI.dll
